@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.whl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Output
+output/
+output_videos/
+*.log
+*.out
+*.tmp
+
+# Data
+*.npy
+*.npz
+data/
+
+# Other
+*.swp
+*.bak
+*.tmp
+
+# Ignore secrets
+secrets.*
